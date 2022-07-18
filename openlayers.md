@@ -63,7 +63,7 @@ OpenLayers appreciates contributions of all kinds.  We especially want to thank 
 
 <br>
 
-[![GeoSolutions logo](./sponsor-logos/geosolutions.png)](https://www.geosolutionsgroup.com/)
+
 
 > Your one-stop-shop for geospatial open source software.
 > https://www.geosolutionsgroup.com/
